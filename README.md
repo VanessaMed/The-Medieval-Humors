@@ -1,2 +1,11 @@
-# The-Medieval-Humours
-This project demonstrates how the medieval humours were used in medicine through the form of urine testing. The user simply presses the button, and the wheel spins to reveal various colours in the urine flask. The colour of urine represented which homour was out of balance, through which this became a method of diagnosis. 
+# The-Medieval-Humors
+
+The Project:
+
+This project demonstrates how the medieval humors were used in medicine through the form of urine testing. The user simply presses the button, and the wheel spins to reveal the various colours accociated with urine in respect to humoral theory.
+
+History of Medieval Urine Testing:
+
+The urine flask, referred to as a matula, was a traditional symbol of medieval physicians. By examining the colour, texture, and taste of a urine sample, the physician could tell whether or not a patient’s humors were balanced. The classical humoral theory states that the body was composed of four humors: black bile (dry and cold), yellow bile (dry and hot), phlegm (moist and cold), and blood (moist and hot). Optimal health was representative of humoral equilibrium, whereas illness resulted from an imbalance. If one humor was out of balance, then the opposite was applied. Furthermore, health and treatment regimens were directly related to diet. For example, if one’s face was especially red, this would signify an increase in blood. To re-balance the level of blood with respect to the other humors, the physician could bleed the patient. If a patient lacked blood relative to the other humors, a diet of meat and eggs (hot and warm) foods would be prescribed. 
+	The humors governed the entire body. Medieval and classical physicians believed the stomach was the location where food was “cooked” (i.e. digested) and turned into blood. The process of this “cooking” was reflective in one’s urine. Urine that was too dark, for instance, indicated that the food in the stomach was being overcooked. The stomach, as a result, would require a diet consisting of more “hot” foods to add heat and aid the digestion process. 
+	The “urine wheel” portrayed 20 different colours of urine and acted as a guide for physicians to follow. If contents of the urine was lighter, and floated to the top of the flask, this would typically be associated with the state of one’s head. Heaver sediments that floated to the bottom would represent the state of the organs one’s lower body, such as the kidneys. The physician’s examination of urine was the best way to determine the state of one’s humoral balance and prescribe an appropriate regimen to regain an equilibrium.
